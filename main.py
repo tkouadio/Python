@@ -32,6 +32,6 @@ def demander_informations(nom, age):
         print("Vous êtes mineur.")
 
 
-# Appel de la fonction demander_informations
+# Appel de la fonction: demander_informations
 
 demander_informations("", 0)
