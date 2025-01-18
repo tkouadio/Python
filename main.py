@@ -1,5 +1,5 @@
 
-# Ce fonction demande le nom et l'âge d'une personne et lui renvoi son statut(Enfant, Majeur)
+# Cette fonction demande le nom et l'âge d'une personne et lui renvoi son statut(Enfant, Majeur)
 def demander_informations(nom, age):
     while nom == "":
           nom = input("Quel est votre nom : ")
