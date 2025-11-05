@@ -1,5 +1,5 @@
 # Cette fonction Écris une fonction qui détermine si une phrase est 
-# un palindrome (ignorer espaces et accents).
+# un palindrome. Les espaces et accents sont ignorés.
 
 from unidecode import unidecode
 import re
